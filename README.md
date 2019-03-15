@@ -32,4 +32,4 @@ Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](h
 
 ## Please submit any pull requests to our DEV repo
 - Leaflet Map FOR DEVELOPMENT https://jackdougherty.github.io/leaflet-maps-with-google-sheets-dev/index.html
-- Google Sheet FOR DEVELOPMENT https://docs.google.com/spreadsheets/d/1_xjrH3gSImzRKqIkhRAqpAAMjH387yaBWfGbidkKtqM/
+- Google Sheet FOR DEVELOPMENT https://docs.google.com/spreadsheets/d/1lIRlLFG32YEBkP54j_2xayHSNFiKF5fRBkUD8G3BCOo/
